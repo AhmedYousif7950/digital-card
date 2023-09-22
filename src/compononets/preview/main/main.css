@@ -1,0 +1,27 @@
+
+*{
+    padding: 0;
+ margin: 0;
+ box-sizing: content-box;
+}
+
+
+.backgroundBox {
+width: 100%;
+top: -30px;
+position: absolute;
+z-index: -1;
+background-color: #623CFF;
+height: 500px;
+margin: 0;
+padding: 0;
+left: 0px;
+border-radius: 20px;
+
+
+}
+
+
+button:hover {
+cursor: pointer;
+}
